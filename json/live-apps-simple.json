@@ -4,6 +4,14 @@
   "lastUpdated": "2025-12-03",
   "apps": [
     {
+      "id": "tb-forex",
+      "title": "TB Forex",
+      "description": "Trade Forex Simulation and earn AIShi",
+      "url": "https://worldcoin.org/mini-app?app_id=app_cc342830aa354c936ec0b5aa4f2fe460&app_mode=mini-app",
+      "status": "live",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/AG_256.webp"
+    },
+    {
       "id": "aishi-games",
       "title": "AIShi Games",
       "description": "Play games and earn AIShi",
