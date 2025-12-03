@@ -1,0 +1,31 @@
+{
+  "title": "AIShi Ecosystem",
+  "description": "Discover apps built for the AIShi ecosystem",
+  "lastUpdated": "2025-10-31",
+  "apps": [
+    {
+      "id": "aishi-games",
+      "title": "AIShi Games",
+      "description": "Play games and earn AIShi",
+      "url": "https://worldcoin.org/mini-app?app_id=app_743401e3bbed2f8045c0963167d39619&app_mode=mini-app",
+      "status": "live",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/AG_256.webp"
+    },
+    {
+      "id": "moral-arena",
+      "title": "Moral Arena",
+      "description": "Make ethical choices in chellenging scenarios",
+      "url": "https://world.org/mini-app?app_id=app_6bade439d74a11c5fbeaa1dfe17f40cc",
+      "status": "live",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/webp/icon_webp/moral36.webp"
+    },
+    {
+      "id": "aishiteru-chat",
+      "title": "AIShiteru Chat",
+      "description": "Connect and chat with AI companions",
+      "url": "https://worldcoin.org/mini-app?app_id=app_e2939cd36f19dc5503c5f2b85abe8aa8&app_mode=mini-app",
+      "status": "live",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/webp/icon_webp/aishiteru36.webp"
+    }
+  ]
+}
