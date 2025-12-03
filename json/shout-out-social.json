@@ -1,12 +1,22 @@
 {
   "current": {
-    "platform": "x",
-    "handle": "Aishicoin",
-    "url": "https://x.com/Aishicoin",
-    "amount": "1",
-    "timestamp": "2025-12-03T05:31:58.629Z",
+    "platform": "facebook",
+    "handle": "Samhaltman",
+    "url": "https://facebook.com/Samhaltman",
+    "amount": "2",
+    "timestamp": "2025-12-03T05:33:42.823Z",
     "walletAddress": "0xc76dcce9acee77cec4fa9f81c7fef111558c89e6",
-    "transactionHash": "0xafa4bb1daa7ba956b081bbb7a9f1ee152a02be3f039741afbc23d5d1dda98d0e"
+    "transactionHash": "0x2c57f6df484176e3efca1d1f34d6187c16154aa5a8f35d12cb1aa1f05a96c854"
   },
-  "history": []
+  "history": [
+    {
+      "platform": "x",
+      "handle": "Aishicoin",
+      "url": "https://x.com/Aishicoin",
+      "amount": "1",
+      "timestamp": "2025-12-03T05:31:58.629Z",
+      "walletAddress": "0xc76dcce9acee77cec4fa9f81c7fef111558c89e6",
+      "transactionHash": "0xafa4bb1daa7ba956b081bbb7a9f1ee152a02be3f039741afbc23d5d1dda98d0e"
+    }
+  ]
 }
