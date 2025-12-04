@@ -1,0 +1,40 @@
+{
+  "exness": {
+    "enabled": true,
+    "name": "Exness",
+    "link": "https://one.exnessonelink.com/a/srr7stt3",
+    "mobileLinkParam": "platform=mobile",
+    "videos": {
+      "baseUrl": "https://brandfolder.com/brandfolder/attachments/embed/",
+      "horizontal": [
+        "f45m4wrw9gmwnfj3sk92437",
+        "4cfhcctbmrx9vs6tccpmxhw",
+        "2976vgb4ckwrnc42zhn5zkw",
+        "98b8n7qj3twtkmcqn83ts48t",
+        "28sm4r9w6xc3fwp6tkkkk",
+        "3hbcnwk6gm6qfhmh8bxb94n",
+        "6856n8s4qchkq7sqv7bsfng",
+        "94897qt4s3sph37zkngnhw",
+        "j6b3783t4cqt5366gnqp37j",
+        "3427bck98s4b965m3kxrr5",
+        "kv2p7wx6xh8xst3vpj9z7tb9"
+      ],
+      "vertical": [
+        "g457b6qsh3g7m7q4pkm5pmb",
+        "svr42nrvh3b6tvcpr4g7q84",
+        "hbgcsps58r3vj49wq5rb7v"
+      ]
+    }
+  },
+  "icmarkets": {
+    "enabled": true,
+    "name": "IC Markets",
+    "link": "https://icmarkets.com/?camp=44116",
+    "image": {
+      "url": "https://promo.icmarkets.com/GIFs/2022/Indices-FSA-EN/970x250_Indices_FSA_EN.gif",
+      "width": 970,
+      "height": 250,
+      "alt": "IC Markets"
+    }
+  }
+}
