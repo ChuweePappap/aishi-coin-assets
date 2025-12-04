@@ -1,0 +1,18 @@
+{
+  "modalTitle": "커뮤니티 허브",
+  "mainMessage": "✅ 모든 시스템이 정상 작동 중입니다! AIShi 토큰을 청구할 수 있습니다.",
+  "sections": [
+    {
+      "title": "🔧 도움 받는 방법",
+      "content": "문제가 발생한 경우:\n1. 청구 버튼 아래의 '청구에 문제가 있나요?' 버튼을 시도해보세요.\n2. 최근에 청구한 경우 쿨다운 기간이 만료될 때까지 기다리세요."
+    },
+    {
+      "title": "🌐 포트폴리오 방문",
+      "content": "우리가 구축한 앱과 프로젝트의 전체 컬렉션을 확인하고, 정기 업데이트로 현재 작업 중인 내용을 확인하세요.\n\n포트폴리오를 탐색하기 위해 chuipop.app로 리디렉션됩니다.",
+      "link": "https://www.chuipop.app/portfolio?utm_source=aishi-claimer&utm_medium=bulletin&utm_campaign=portfolio-visit&utm_content=korean",
+      "htmlBanner": "<img src='https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/gif/AIShi_site_gif.gif' alt='Portfolio Banner' style='max-width: 100%; height: auto; border-radius: 8px;' />"
+    }
+  ],
+  "footer": "Thank you for your patience and for being part of the AIShi community! 💜",
+  "isActive": true
+}

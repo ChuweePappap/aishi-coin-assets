@@ -1,0 +1,18 @@
+{
+  "modalTitle": "コミュニティハブ",
+  "mainMessage": "✅ すべてのシステムが正常に動作しています！AIShiトークンを請求できます。",
+  "sections": [
+    {
+      "title": "🔧 ヘルプの利用方法",
+      "content": "問題が発生した場合：\n1. 請求ボタンの下にある「請求に問題がありますか？」ボタンをお試しください。\n2. 最近請求した場合は、クールダウン期間が終わるまでお待ちください。"
+    },
+    {
+      "title": "🌐 ポートフォリオをご覧ください",
+      "content": "私たちが構築したアプリやプロジェクトの完全なコレクションをご覧いただき、定期的な更新で現在取り組んでいる内容をご確認ください。\n\nポートフォリオを探索するためにchuipop.appにリダイレクトされます。",
+      "link": "https://www.chuipop.app/portfolio?utm_source=aishi-claimer&utm_medium=bulletin&utm_campaign=portfolio-visit&utm_content=japanese",
+      "htmlBanner": "<img src='https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/gif/AIShi_site_gif.gif' alt='Portfolio Banner' style='max-width: 100%; height: auto; border-radius: 8px;' />"
+    }
+  ],
+  "footer": "Thank you for your patience and for being part of the AIShi community! 💜",
+  "isActive": true
+}

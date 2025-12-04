@@ -1,0 +1,18 @@
+{
+  "modalTitle": "Community Hub",
+  "mainMessage": "✅ All systems operational! You can claim your AIShi tokens.",
+  "sections": [
+    {
+      "title": "🔧 How to Get Help",
+      "content": "If you're experiencing issues:\n1. Try the 'Having trouble claiming?' button below the claim button.\n2. Wait for your cooldown period to expire if you've recently claimed."
+    },
+    {
+      "title": "🌐 Visit Our Portfolio",
+      "content": "View our complete collection of apps and projects we've built, and see what we're currently working on with regular updates. \n\nYou will be redirected to chuipop.app to explore our portfolio.",
+      "link": "https://www.chuipop.app/portfolio?utm_source=aishi-claimer&utm_medium=bulletin&utm_campaign=portfolio-visit",
+      "htmlBanner": "<img src='https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/gif/AIShi_site_gif.gif' alt='Portfolio Banner' style='max-width: 100%; height: auto; border-radius: 8px;' />"
+    }
+  ],
+  "footer": "Thank you for your patience and for being part of the AIShi community! 💜",
+  "isActive": true
+}
