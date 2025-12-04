@@ -1,0 +1,18 @@
+{
+  "modalTitle": "Centro da Comunidade",
+  "mainMessage": "✅ Todos os sistemas operacionais! Você pode reivindicar seus tokens AIShi.",
+  "sections": [
+    {
+      "title": "🔧 Como Obter Ajuda",
+      "content": "Se você estiver enfrentando problemas:\n1. Tente o botão 'Tendo problemas para reivindicar?' abaixo do botão de reivindicação.\n2. Aguarde o período de espera expirar se você reivindicou recentemente."
+    },
+    {
+      "title": "🌐 Visite Nosso Portfólio",
+      "content": "Veja nossa coleção completa de aplicativos e projetos que construímos, e veja no que estamos trabalhando atualmente com atualizações regulares.\n\nVocê será redirecionado para chuipop.app para explorar nosso portfólio.",
+      "link": "https://www.chuipop.app/portfolio?utm_source=aishi-claimer&utm_medium=bulletin&utm_campaign=portfolio-visit&utm_content=portuguese",
+      "htmlBanner": "<img src='https://cdn.jsdelivr.net/gh/ChuweePappap/aishi-coin-assets@main/gif/AIShi_site_gif.gif' alt='Portfolio Banner' style='max-width: 100%; height: auto; border-radius: 8px;' />"
+    }
+  ],
+  "footer": "Thank you for your patience and for being part of the AIShi community! 💜",
+  "isActive": true
+}
